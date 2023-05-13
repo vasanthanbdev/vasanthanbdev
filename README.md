@@ -13,6 +13,6 @@ I'm Vasanthan, a Coimbatore Institute of Technology student studying Engineering
 
 - Email: vasanthan_b@outlook.com
 - LinkedIn: https://www.linkedin.com/in/vasanthanb
-- Twitter: https://www.twitter.com/_vasanthan_
+- Twitter: https://www.twitter.com/_vasanthan_ 
 
 Feel free to reach out if you'd like to collaborate on projects or have any questions about my experience.
