@@ -4,23 +4,15 @@ I'm Vasanthan, a Coimbatore Institute of Technology student studying Engineering
 
 ### Skills
 
-- Programming languages: C++, Python
-- 
-
-### Achievements
-
-- Consistently ranked in the top 10% of competitive programming contests.
-- Won [insert competition name here] in [insert year].
-- Contributed to [insert open-source project name] by implementing an algorithm optimization.
-
-### Projects
-
-- [insert link to your GitHub repository]: [insert short description of the project and the algorithms and data structures used]
-- [insert link to your GitHub repository]: [insert short description of the project and the algorithms and data structures used]
+- Programming languages: C/C++, Python
+- Database Management systems: SQL, MySQL
+- Computer Science Knowledge: Object Oriented Programming, Data Strucutres and Algorithms
+- Operating Systems: Linux
 
 ### Contact
 
 - Email: vasanthan_b@outlook.com
-- LinkedIn: [insert your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/vasanthanb
+- Twitter: https://www.twitter.com/_vasanthan_
 
 Feel free to reach out if you'd like to collaborate on a competitive programming project or have any questions about my experience.
