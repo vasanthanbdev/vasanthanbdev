@@ -18,4 +18,4 @@ A student with a passion for computer science and technology. Currently doing co
 - Connect with me on <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
 - Follow me on <a href = "https://www.twitter.com/_vasanthan_">Twitter</a> 
 
-Feel free to reach out if you'd like to collaborate on projects.
+Feel free to reach, open for collaborating on projects.
