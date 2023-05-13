@@ -14,7 +14,7 @@ A student with a passion for computer science and technology. Currently doing co
 
 ## Contact 
 
-- Write to me on <a href = "vasanthan_b@outlook.com">Email</a>
+- Write to me via <a href = "vasanthan_b@outlook.com">Email</a>
 - Connect with me on <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
 - Follow me on <a href = "https://www.twitter.com/_vasanthan_">Twitter</a> 
 
