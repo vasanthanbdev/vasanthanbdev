@@ -12,7 +12,7 @@ A student with a passion for computer science and technology. Currently doing co
 - Competetive Programming: LeetCODE
 
 
-## Find me around the web 
+## Contact 
 
 - Write to me on <a href = "vasanthan_b@outlook.com">Email</a>
 - Connect with me on <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
