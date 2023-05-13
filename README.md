@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋 🧑‍💻
 
 I'm Vasanthan, a Coimbatore Institute of Technology student studying Engineering with a passion for software engineering and competitive programming. I enjoy solving algorithmic problems, participating in coding contests, and learning new data structures and algorithms.
 
@@ -15,4 +15,4 @@ I'm Vasanthan, a Coimbatore Institute of Technology student studying Engineering
 - LinkedIn: https://www.linkedin.com/in/vasanthanb
 - Twitter: https://www.twitter.com/_vasanthan_
 
-Feel free to reach out if you'd like to collaborate on a competitive programming project or have any questions about my experience.
+Feel free to reach out if you'd like to collaborate on projects or have any questions about my experience.
