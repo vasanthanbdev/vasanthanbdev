@@ -9,10 +9,10 @@ a student with a passion for software engineering and competitive programming. I
 - Computer Science Knowledge: Object Oriented Programming, Data Strucutres and Algorithms
 - Operating Systems: Linux
 
-### Contact
+## Find me around the web 
 
-- <a href = "vasanthan_b@outlook.com">Email</a>
-- <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
-- <a href = "https://www.twitter.com/_vasanthan_">Twitter</a> 
+- Write to me on <a href = "vasanthan_b@outlook.com">Email</a>
+- Connect with me on <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
+- Follow me on <a href = "https://www.twitter.com/_vasanthan_">Twitter</a> 
 
 Feel free to reach out if you'd like to collaborate on projects or have any questions about my experience.
