@@ -1,8 +1,8 @@
-## Hi there! I'm Vasanthan 👋 🧑‍💻
+# Hi there! I'm Vasanthan 👋 🧑‍💻
 
 a student with a passion for software engineering and competitive programming. I enjoy solving algorithmic problems, participating in coding contests, and learning new data structures and algorithms.
 
-### Skills
+## Skills
 
 - Programming languages: C/C++, Python
 - Database Management systems: SQL, MySQL
