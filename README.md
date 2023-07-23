@@ -1,6 +1,6 @@
 # Hi there! I'm Vasanthan 👋 🧑‍💻
 
-A student with a passion for computer science and technology. Currently doing competetive programming. I enjoy solving algorithmic problems, participating in coding contests, and learning new data structures and algorithms.
+A student with a passion for computer science and technology. Currently learning Data Structures and Algorithms and Web Development using Django. Working on some Web Development projects and learning about Contributing to Open Source.
 
 
 ## Skills
