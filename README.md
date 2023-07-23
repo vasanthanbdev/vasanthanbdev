@@ -6,6 +6,7 @@ A student with a passion for computer science and technology. Currently doing co
 ## Skills
 
 - Programming languages: C/C++, Python
+- Web Development: Django
 - Database Management systems: SQL, MySQL
 - Computer Science Knowledge: Object Oriented Programming, Data Strucutres and Algorithms
 - Operating Systems: Linux
