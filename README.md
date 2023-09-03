@@ -6,17 +6,17 @@ A student with a passion for computer science and technology. Currently learning
 ## Skills
 
 - Programming languages: C/C++, Python
-- Web Development: Django
-- Database Management systems: SQL, MySQL
+- Web Development: Django, Backend Development
+- Database Management systems: SQL, MySQL, SQLite3
 - Computer Science Knowledge: Object Oriented Programming, Data Strucutres and Algorithms
 - Operating Systems: Linux
-- Competetive Programming: LeetCODE
+
 
 
 ## Contact 
 
 - Write to me via <a href = "vasanthanbdev@gmail.com">Email</a>
-- Connect with me on <a href = "https://www.linkedin.com/in/vasanthanb">LinkedIn</a>
-- Follow me on <a href = "https://www.twitter.com/_vasanthan_">Twitter</a> 
+- Connect with me on <a href = "https://www.linkedin.com/in/vasanthanbdev">LinkedIn</a>
+- Follow me on <a href = "https://www.twitter.com/vasanthandev">Twitter</a> 
 
 Feel free to reach, open for collaborating on projects.
