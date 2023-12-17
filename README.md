@@ -1,15 +1,12 @@
 # Hi there! I'm Vasanthan 👋 🧑‍💻
 
-A student with a passion for computer science and technology. Currently learning Data Structures and Algorithms and Web Development using Django. Working on some Web Development projects and learning about Contributing to Open Source.
+Self-taught Web Developer with a passion for Software Engineer and Development and a strong foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Expertise in Back-End Web Development, Python, Development, Flask and Django Development, REST APIs
 
 
 ## Skills
 
-- Programming languages: C/C++, Python
-- Web Development: Django, Backend Development
-- Database Management systems: SQL, MySQL, SQLite3
-- Computer Science Knowledge: Object Oriented Programming, Data Strucutres and Algorithms
-- Operating Systems: Linux
+- Tools and Technologies: C/C++, Python, JavaScript, Flask, Django, REST APIs, Database (DBMS), SQL, MySQL, SQLite, HTML, CSS, Linux, Git & GitHub
+- Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures and Algorithms, Back-End Development
 
 
 
@@ -19,4 +16,4 @@ A student with a passion for computer science and technology. Currently learning
 - Connect with me on <a href = "https://www.linkedin.com/in/vasanthanbdev">LinkedIn</a>
 - Follow me on <a href = "https://www.twitter.com/vasanthandev">Twitter</a> 
 
-Feel free to reach, open for collaborating on projects.
+Feel free to reach out, I am open to collaborating on projects.
