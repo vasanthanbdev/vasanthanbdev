@@ -6,7 +6,7 @@ Self-taught Web Developer with a passion for Software Engineer and Development a
 ## Skills
 
 - Tools and Technologies: C/C++, Python, JavaScript, Flask, Django, REST APIs, Database (DBMS), SQL, MySQL, SQLite, HTML, CSS, Linux, Git & GitHub
-- Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures and Algorithms, Back-End Development
+- Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures and Algorithms, Back-End Web Development
 
 
 
