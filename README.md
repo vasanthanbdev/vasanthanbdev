@@ -1,6 +1,6 @@
 # Hi there! I'm Vasanthan 👋 🧑‍💻
 
-Self-taught Web Developer with a passion for Software Engineer and Development and a strong foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Expertise in Back-End Web Development, Python, Development, Flask and Django Development, REST APIs
+Self-taught Web Developer with a passion for Software Engineer and Development and a strong foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Currently working in C++ and Python Developement.
 
 
 ## Skills
