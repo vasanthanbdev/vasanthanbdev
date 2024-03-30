@@ -1,6 +1,6 @@
 # Hi there! I'm Vasanthan 👋 🧑‍💻
 
-Self-taught Web Developer with a passion for Software Engineer and Development and a strong foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Currently working in C++ and Python Developement.
+Self-taught Developer with a passion for Software Engineering and Development with a good foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Currently working in C++ and Python Developement.
 
 
 ## Skills
