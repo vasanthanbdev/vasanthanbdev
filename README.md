@@ -1,12 +1,12 @@
 # Hi there! I'm Vasanthan 👋 🧑‍💻
 
-Self-taught Developer with a passion for Software Engineering and Development with a good foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Currently working in C++ and Python Developement.
+Self-taught Developer with a passion for Software Engineering and Development with a good foundation in Computer Programming. Highly adaptable and proficient in adopting emerging technologies. Currently learning and expertised in Python, Flask, Django Developement.
 
 
 ## Skills
 
-- Tools and Technologies: C/C++, Python, Linux, Git, GitHub, ZeroMQ, Bitbucket, Flask, Django, Django REST Framework, SQL, MySQL, SQLite 
-- Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures, Algorithms, Back-End Development, Concurrency and Multithreading, Network Programming, Software Engineering, Software Development Life Cycle (SDLC), Software Development
+- Tools and Technologies: C/C++, Python, SQL, Databases, Linux, Shell Scripting (Bash), Git, GitHub, Bitbucket, Flask, Django, Django REST Framework, MySQL, PostgreSQL, Postman, 
+- Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures, Algorithms, Back-End Web Development, Software Development Life Cycle (SDLC), Software Development, Software Engineering
 
 
 
