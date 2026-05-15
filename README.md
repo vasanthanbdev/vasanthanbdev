@@ -5,7 +5,7 @@ Self-taught Developer with a passion for Software Engineering and Development wi
 
 ## Skills
 
-- Tools and Technologies: C/C++, Python, SQL, Databases, Linux, Shell Scripting (Bash), Git, GitHub, Bitbucket, Flask, Django, Django REST Framework, MySQL, PostgreSQL, Postman, 
+- Tools and Technologies: C/C++, Python, Java, Go, Rust, SQL, Databases, Linux, Shell Scripting (Bash), Git, GitHub, Bitbucket, Flask, Django, Django REST Framework, MySQL, PostgreSQL, Postman, 
 - Industry Knowledge: Computer Science, Object Oriented Programming, Data Structures, Algorithms, Back-End Web Development, Software Development Life Cycle (SDLC), Software Development, Software Engineering
 
 
